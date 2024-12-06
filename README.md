@@ -31,29 +31,6 @@ The report describes the components used in the system, the working of both char
 ## Images
 The following images are included in the report to illustrate various system components, control processes, and results:
 
-### Battery Flow Model
-![Battery Flow Model](Images/BatteryFlowModel.png)
-
-### Current Control with PI Controller
-![Current Control with PI Controller](Images/CurrentController.png)
-
-### Current Control Verification
-![Current Control Verification](Images/Current_Control_Changing_Reference_Graph.png)
-
-### Open Circuit Test at 80% SOC
-![Open Circuit Test](Images/OpenCircuitTest.png)
-
-### Voltage Controller for Charging
-![Voltage Controller for Charging](Images/VoltageController.png)
-
-### Voltage Control for Charging
-![Voltage Control for Charging](Images/Voltage_Control_Graph.png)
-
-### Voltage Controller for Discharging
-![Voltage Controller for Discharging](Images/DischargingVolatgeControl.png)
-
-### Voltage Control for Discharging (Graph)
-![Voltage Control for Discharging](Images/Dischanging_Reference_Graph.png)
 
 ### Final System with Switching Mechanism
 ![Final System with Switching Mechanism](Images/FinalController.png)
